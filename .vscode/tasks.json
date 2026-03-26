@@ -21,6 +21,7 @@
       },
       "problemMatcher": [],
       "detail": "Build the Jekyll site for production."
+<<<<<<< HEAD
     },
     {
       "label": "Build JS (watch)",
@@ -59,6 +60,8 @@
         "kind": "build"
       },
       "detail": "Runs both the Jekyll server with live reload and build JS files in watch mode."
+=======
+>>>>>>> 124979c124afca7f943771688b7e2815dba36408
     }
   ]
 }
