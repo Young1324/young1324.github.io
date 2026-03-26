@@ -18,8 +18,8 @@ order: 4
 
 ### 📬 联系我 (Contact Me)
 
-- **GitHub**: [@young1324](https://github.com/young1324)
-- **Email**: [youngchou2004@qq.com](mailto:youngchou2004@qq.com)
+- **GitHub**: 
+- **Email**: 
 
 感谢你的访问，希望你在这里能有所收获！
 
