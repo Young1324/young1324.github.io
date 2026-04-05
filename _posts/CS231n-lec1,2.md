@@ -1,6 +1,6 @@
 ---
 title: CS231n-lec1,2
-date: 2026-04-05 10:30:00 +0800
+date: 2026-04-05 22:10:00 +0800
 categories: [笔记, CS231n]
 tags: [linear image classification]
 description: CS231n课程第1、2讲线性图像分类知识点笔记  # 自定义文章描述，替代自动提取的内容
