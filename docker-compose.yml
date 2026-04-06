@@ -11,10 +11,9 @@ services:
       - .:/app:cached
       - /app/node_modules
       - /app/vendor/bundle
-      - /app/_site
     environment:
       - JEKYLL_ENV=development
     stdin_open: true
     tty: true
     command: >
-      sh -c "bundle install && npm install && bundle exec jekyll serve --host 0.0.0.0 --livereload --incremental"
+      sh -c "git config --global --add safe.directory /app && bundle install && npm install && bundle exec jekyll serve --host 0.0.0.0 --livereload --incremental"
